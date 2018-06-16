@@ -69,24 +69,24 @@ KnowMD es una propuesta de un Dashboard Medical adaptado para celulares, permiti
 
 ### Objetivos de KnowMD:
 
-   ![Objetivos](assets/images/7.png)
+   ![Objetivos](img/7.png)
 
 ### Ventajas y beneficios que Kwnow debe ofrecer:
 
-   ![Ventajas](assets/images/8.png)
+   ![Ventajas](img/8.png)
 
 ## Prototipado
 
 ### Actividades:
 
     * Se utilizó Figma para el desarrollo de las vistas.
-      [Ver Figma](https://www.figma.com/file/Ulw6HQfJKcgaPl2jfAoPAU1N/KnowMD?node-id=12%3A0)
+   [Ver Figma](https://www.figma.com/file/Ulw6HQfJKcgaPl2jfAoPAU1N/KnowMD?node-id=12%3A0)
 
     * Se utilizó Marv el para darle interacción a las vistas del Prototipo.
 
 ### Prototipo Alta Fidelidad Movil:
 
-    [Ver Prototipo Movil](https://marvelapp.com/93437f1/screen/44387709)
+   [Ver Prototipo Movil](https://marvelapp.com/93437f1/screen/44387709)
 
 ## Testing
 
