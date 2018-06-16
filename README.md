@@ -45,35 +45,35 @@ KnowMD es una propuesta de un Dashboard Medical adaptado para celulares, permiti
 
   * ¿Qué debe proveer la KnowMD a los médicos?
 
-  ![Síntesis](img/1.png)
+ ![Síntesis](img/1.png)
 
-  ![Definición](img/2.png)
+ ![Definición](img/2.png)
 
 ## Detalles de la Propuesta
 
 ### User Persona:
 
-    ![User Persona](img/3.png)
+   ![User Persona](img/3.png)
 
 ### Escenario:
 
-    ![Escenario](img/4.png)
+   ![Escenario](img/4.png)
 
 ### Problem statements & How might we?
 
-    ![HMW](img/5.png)
+   ![HMW](img/5.png)
 
 ### Elementos que contendrá KnowMD:
 
-    ![Contenido](img/6.png)
+   ![Contenido](img/6.png)
 
 ### Objetivos de KnowMD:
 
-    ![Objetivos](assets/images/7.png)
+   ![Objetivos](assets/images/7.png)
 
 ### Ventajas y beneficios que Kwnow debe ofrecer:
 
-    ![Ventajas](assets/images/8.png)
+   ![Ventajas](assets/images/8.png)
 
 ## Prototipado
 
